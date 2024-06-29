@@ -1,6 +1,7 @@
 
 # ICP
 
+CASOS de PRUEBA/
 -------------++++++++++++---------------+++++++++++++------------------+++++++++++--------------+++++++++++--------------
 **CASO 1: DApp de Votación Descentralizada en la Blockchain de ICP**
 
